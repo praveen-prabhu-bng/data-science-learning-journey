@@ -1,0 +1,7 @@
+Sorry we are using W to overwrite this file
+Previous content are lost.
+
+ We have now used Append operation to append the file without overwriting!
+First line 
+Second line 
+Third line

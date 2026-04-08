@@ -1,0 +1,42 @@
+# Python Learning - Navigation Menu
+
+---
+
+## 🏠 [Home](../../README.md)
+
+---
+
+## 📖 Python Topics
+
+### Basics
+- 🔗 [Syntax, Semantics & Operators](01-Syntax-Semantics-Operators.ipynb)
+  - Variables
+  - Data Types
+  - Operators
+  - Type Conversion
+
+### Intermediate
+- 🔗 [Control Flow & Data Structures](02-Control-Flow-Data-Structures-Functions.ipynb)
+  - Conditionals
+  - Loops
+  - Lists, Tuples, Dicts, Sets
+  - Functions
+
+### Advanced
+- 🔗 [Object-Oriented Programming](03-Object-Oriented-Programming-Design.ipynb)
+  - Classes & Objects
+  - Inheritance
+  - Polymorphism
+
+- 🔗 [Advanced Modules & Libraries](04-Advanced-Modules-Libraries.ipynb)
+  - File I/O
+  - API Integration
+  - Popular Libraries
+
+### Practice
+- 🔗 [Exercises & Problems](05-exercises.ipynb)
+  - LeetCode Solutions
+  - Practice Problems
+
+---
+
